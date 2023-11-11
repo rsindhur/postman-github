@@ -2,14 +2,15 @@ https://api.github.com/user/repos
 
 
 {
-  "name": "postman-demo-07Nov",
-  "description": "This is created by postman",
+  "name": "postman-github",
+  "description": "This is title of postman-github",
   "homepage": "https://github.com",
   "private": false,
   "has_issues": true,
   "has_projects": true,
   "has_wiki": true
 }
+
 
 
 GITHUB get request Test
